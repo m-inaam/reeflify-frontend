@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Reeflify'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FA46D89ED2143BEA9FC9DC7B924FEB5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E6BDEC27056844C8B68889CBB39AB8C3 }}
           package: .
